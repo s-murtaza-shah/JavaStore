@@ -1,5 +1,5 @@
 # JavaStore
-<p>A 'virtual' Hardware Store designed using Java and advanced object-oriented-programming principles. It is a mixture of console-based text and ASCII art as well as some GUI elements implemented via Java Swing library.</p>
+<p>A 'virtual' Hardware Store designed using Java and advanced object-oriented-programming principles. It is a mixture of console-based text and ASCII art as well as some GUI elements implemented via Java Swing library. One of the next steps would be to have an entirely graphical UI.</p>
 
 ## Images
 ![image](https://github.com/s-murtaza-shah/JavaStore/assets/132228459/21548af1-613e-431c-a39c-eacb55cd5570)
