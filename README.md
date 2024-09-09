@@ -1,4 +1,4 @@
-# ToolStore
+# ToolDepot
 <p>A 'virtual' Hardware Store designed using Java and advanced object-oriented-programming principles. It is a mixture of console-based text and ASCII art as well as some GUI elements implemented via Java Swing library. One of the next steps would be to have an entirely graphical UI and integrating a database to store data instead of using CSV files.</p>
 
 ## Images
